@@ -7,10 +7,18 @@
 enum BoostSetting {
     BOOST_PRESSURE, BOOST_SPEED, BOOST_TEMPERATURE, BOOST_STYLE,
     BOOST_CHIME, BOOST_COOLANT_ALERT, BOOST_OIL_TEMP_ALERT, BOOST_OIL_PRESSURE_ALERT,
-    BOOST_SETTING_COUNT
+    BOOST_BOOST_UNIT, BOOST_SETTING_COUNT
 };
 
-static const unsigned char kBoostChoices[] = {3, 2, 2, 2, 2, 10, 10, 6};
+// BOOST_BOOST_UNIT: 0 follows the pressure setting, 1..3 select psi, bar or kPa
+// for the boost gauge only.
+static const unsigned char kBoostChoices[] = {3, 2, 2, 2, 2, 10, 10, 6, 4};
+
+typedef char boost_choice_count[(sizeof kBoostChoices==BOOST_SETTING_COUNT) ? 1 : -1];
+
+inline bool boostAlertSetting(unsigned row) {
+    return row>=BOOST_COOLANT_ALERT && row<=BOOST_OIL_PRESSURE_ALERT;
+}
 
 struct BoostPreferences {
     unsigned color;
@@ -31,7 +39,10 @@ struct BoostPreferences {
         if (data[1]==1 && length==4 && data[3]<=1) {
             color=data[2];
             choice[BOOST_PRESSURE]=choice[BOOST_SPEED]=choice[BOOST_TEMPERATURE]=data[3];
-        } else if (data[1]==2 && length==sizeof data) {
+        } else if ((data[1]==2 && length==sizeof data-1) ||
+                   (data[1]==3 && length==sizeof data)) {
+            // Version 2 files predate the boost unit and keep following the pressure setting.
+            if (data[1]==2) data[3+BOOST_BOOST_UNIT]=0;
             // Earlier beta builds offered pressure thresholds of up to 60 psi.
             unsigned char& floor=data[3+BOOST_OIL_PRESSURE_ALERT];
             const unsigned char maximum=kBoostChoices[BOOST_OIL_PRESSURE_ALERT]-1;
@@ -44,13 +55,14 @@ struct BoostPreferences {
     }
 
     bool save(const char* path) const {
-        unsigned char data[3+BOOST_SETTING_COUNT]={'G',2,static_cast<unsigned char>(color)};
+        unsigned char data[3+BOOST_SETTING_COUNT]={'G',3,static_cast<unsigned char>(color)};
         for (unsigned i=0; i<BOOST_SETTING_COUNT; ++i) data[3+i]=choice[i];
         return savePersistentBytes(path,data,sizeof data);
     }
 
     int units(unsigned signal) const {
         if (signal==BD_SPEED) return choice[BOOST_SPEED];
+        if (signal==BD_BOOST && choice[BOOST_BOOST_UNIT]) return choice[BOOST_BOOST_UNIT]-1;
         if (bd_is_pressure(signal)) return choice[BOOST_PRESSURE];
         return choice[BOOST_TEMPERATURE];
     }

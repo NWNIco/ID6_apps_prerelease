@@ -50,15 +50,17 @@ const unsigned kCircularSteps = 12;
 const unsigned kAlertSignals[] = {BD_COOLANT, BD_OIL_TEMP, BD_OIL};
 const char* const kSettingLabels[] = {
     "Pressure", "Speed", "Temperature", "Gauge style", "Alert mode",
-    "Coolant high", "Oil temp high", "Oil pressure low"
+    "Coolant high", "Oil temp high", "Oil pressure low", "Boost pressure"
 };
 
 void settingValue(const BoostPreferences& prefs, unsigned row, unsigned choice, char* text, size_t size) {
+    static const char* const boost[]={"Same as pressure","psi","bar","kPa"};
     static const char* const values[][3]={
         {"psi","bar","kPa"}, {"mph","km/h",0}, {"\260F","\260C",0},
         {"Bars","Circular dials",0}, {"Screen + soft chime","Screen only",0},
     };
-    if (row<BOOST_COOLANT_ALERT) snprintf(text,size,"%s",values[row][choice]);
+    if (row==BOOST_BOOST_UNIT) snprintf(text,size,"%s",boost[choice]);
+    else if (row<BOOST_COOLANT_ALERT) snprintf(text,size,"%s",values[row][choice]);
     else if (!choice) snprintf(text,size,"Off");
     else {
         const unsigned alarm=row-BOOST_COOLANT_ALERT, signal=kAlertSignals[alarm];
@@ -136,7 +138,7 @@ public:
             return true;
         }
         preferences_=changed;
-        if (Row>=BOOST_COOLANT_ALERT) {
+        if (boostAlertSetting(Row)) {
             alerts_.reset(Row-BOOST_COOLANT_ALERT);
             restartCollector();
         }
@@ -257,7 +259,8 @@ bool BoostDeck::onInit() {
         {TWO(BOOST_PRESSURE), C(BOOST_PRESSURE, 2)}, {TWO(BOOST_SPEED)},
         {TWO(BOOST_TEMPERATURE)}, {TWO(BOOST_STYLE)}, {TWO(BOOST_CHIME)},
         {TEN(BOOST_COOLANT_ALERT)}, {TEN(BOOST_OIL_TEMP_ALERT)},
-        {SIX(BOOST_OIL_PRESSURE_ALERT)}
+        {SIX(BOOST_OIL_PRESSURE_ALERT)},
+        {TWO(BOOST_BOOST_UNIT), C(BOOST_BOOST_UNIT, 2), C(BOOST_BOOST_UNIT, 3)}
 #undef TEN
 #undef SIX
 #undef TWO

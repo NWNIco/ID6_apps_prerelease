@@ -39,7 +39,27 @@ int main() {
     assert(!memcmp(restarted.choice,prefs.choice,sizeof prefs.choice));
     assert(fabs(bd_display_selected(BD_OIL,boostAlertThreshold(2,5),0)-25.0)<1e-6);
 
-    unsigned char corrupted[3+BOOST_SETTING_COUNT]={'G',2,4};
+    // Version 2 files from earlier releases load with the boost unit following pressure.
+    const unsigned char version2[]={'G',2,3,1,1,1,0,0,2,3,1};
+    assert(savePersistentBytes(path,version2,sizeof version2));
+    BoostPreferences upgraded;
+    upgraded.load(path,9);
+    assert(upgraded.color==3 && upgraded.choice[BOOST_OIL_PRESSURE_ALERT]==1);
+    assert(upgraded.choice[BOOST_BOOST_UNIT]==0);
+    assert(upgraded.units(BD_BOOST)==1 && upgraded.units(BD_OIL)==1);
+
+    // A separate boost unit changes only the boost gauge.
+    upgraded.choice[BOOST_BOOST_UNIT]=1;
+    assert(upgraded.save(path));
+    restarted.load(path,9);
+    assert(restarted.choice[BOOST_BOOST_UNIT]==1 && restarted.units(BD_BOOST)==0);
+    assert(restarted.units(BD_OIL)==1 && restarted.units(BD_RAIL)==1);
+    assert(!strcmp(bd_unit_selected(BD_BOOST,restarted.units(BD_BOOST)),"psi"));
+    assert(!strcmp(bd_unit_selected(BD_OIL,restarted.units(BD_OIL)),"bar"));
+    assert(!boostAlertSetting(BOOST_BOOST_UNIT) && boostAlertSetting(BOOST_OIL_PRESSURE_ALERT));
+    prefs=restarted;
+
+    unsigned char corrupted[3+BOOST_SETTING_COUNT]={'G',3,4};
     corrupted[3]=3;
     assert(savePersistentBytes(path,corrupted,sizeof corrupted));
     restarted.load(path,9);

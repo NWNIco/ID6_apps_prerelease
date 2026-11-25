@@ -26,7 +26,7 @@ WIDTH, HEIGHT = 1172, 400
 SETTINGS = (
     ("Pressure", 3), ("Speed", 2), ("Temperature", 2), ("Gauge style", 2),
     ("Alert mode", 2), ("Coolant high", 10), ("Oil temp high", 10),
-    ("Oil pressure low", 6),
+    ("Oil pressure low", 6), ("Boost pressure", 4),
 )
 
 
