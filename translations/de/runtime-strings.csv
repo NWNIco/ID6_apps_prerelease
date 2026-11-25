@@ -1,0 +1,198 @@
+app,source,kind,english,german,written_as,display_test
+BoostDeck,src/plugins/boost_deck.cpp,text,Gauge color: %s,Farbe: %s,Farbe: %s,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Gauge %u: %s,Anzeige %u: %s,Anzeige %u: %s,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Engine profile: Gasoline,Motorprofil: Benzin,Motorprofil: Benzin,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Engine profile: Diesel,Motorprofil: Diesel,Motorprofil: Diesel,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Could not save settings,Nicht gespeichert,Nicht gespeichert,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Could not save gauge selection,Auswahl nicht gespeichert,Auswahl nicht gespeichert,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Could not save engine profile,Profil nicht gespeichert,Profil nicht gespeichert,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Pressure,Druck,Druck,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Speed,Tempo,Tempo,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Bars,Balken,Balken,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Temperature,Temperatur,Temperatur,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Gauge style,Anzeigestil,Anzeigestil,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Alert mode,Warnung,Warnung,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Coolant high,Wasser hoch,Wasser hoch,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Coolant hot,Wasser hoch,Wasser hoch,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Oil temp high,Oeltemp. hoch,Oeltemp. hoch,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Oil pressure low,Oeldruck niedrig,Oeldruck niedrig,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Circular dials,Rundanzeigen,Rundanzeigen,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Screen + soft chime,Anzeige + Ton,Anzeige + Ton,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Screen only,Nur Anzeige,Nur Anzeige,seen in car
+BoostDeck,src/plugins/boost_deck.cpp,text,Off,Aus,Aus,seen in car
+BoostDeck,src/plugins/dial_scales.h,text,Blue,Blau,Blau,seen in car
+BoostDeck,src/plugins/dial_scales.h,text,Green,Gruen,Gruen,seen in car
+BoostDeck,src/plugins/dial_scales.h,text,White,Weiss,Weiss,seen in car
+BoostDeck,src/plugins/dial_scales.h,text,Purple,Lila,Lila,seen in car
+BoostDeck,src/plugins/dial_scales.h,text,Red,Rot,Rot,seen in car
+BoostDeck,src/plugins/dial_scales.h,text,Multicolor,Mehrfarbig,Mehrfarbig,seen in car
+ShiftDeck,src/plugins/shift_deck.cpp,text,Shift light at %u RPM,Schaltpunkt %u U/min,Schaltpunkt %u U/min,seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,Diagnostic gateway unavailable,Gateway nicht erreichbar,Gateway nicht erreichbar,seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,Clear refused (NRC %02X); extended session refused (%02X),Abgelehnt (NRC %02X); Sitzung abgelehnt (%02X),Abgelehnt (NRC %02X); Sitzung abgelehnt (%02X),seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,Clear refused (NRC %02X). Park with ignition on and engine off.,"Abgelehnt (NRC %02X). P, Zündung an, Motor aus.","Abgelehnt (NRC %02X). P, Zuendung an, Motor aus.",seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,Clear refused (NRC 33). The DME requires authorized diagnostics.,Abgelehnt (NRC 33). DME verlangt Freischaltung.,Abgelehnt (NRC 33). DME verlangt Freischaltung.,seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,Clear rejected by DME (NRC %02X),Vom DME abgelehnt (NRC %02X),Vom DME abgelehnt (NRC %02X),seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,Clear unconfirmed. Read engine codes before retrying.,Unbestätigt. Erst Fehler neu lesen.,Unbestaetigt. Erst Fehler neu lesen.,seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,Clear accepted; recheck refused (NRC %02X),Gelöscht; Kontrolle abgelehnt (NRC %02X),Geloescht; Kontrolle abgelehnt (NRC %02X),seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,Clear accepted; %d engine %s remain%s,Gelöscht; noch %d %s%.0s,Geloescht; noch %d %s%.0s,seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,Clear acknowledged; recheck unavailable,Löschen bestätigt; keine Kontrolle,Loeschen bestaetigt; keine Kontrolle,seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,No valid code response,Keine gültige Antwort,Keine gueltige Antwort,seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,Engine: %d %s,Motor: %d %s,Motor: %d %s,seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,code,Code,Code,seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,codes,Codes,Codes,seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,Read rejected (NRC %02X),Abgelehnt (NRC %02X),Abgelehnt (NRC %02X),seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,More codes returned; first 128 shown,Mehr Codes; erste 128 gezeigt,Mehr Codes; erste 128 gezeigt,seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,Diagnostics busy. Wait a moment and try again.,Diagnose belegt. Bitte erneut versuchen.,Diagnose belegt. Bitte erneut versuchen.,seen in car
+EngineCodes,src/workers/engine_codes_worker.c,text,More codes may exist,Evtl. weitere Codes,Evtl. weitere Codes,seen in car
+EngineCodes,src/plugins/engine_codes.cpp,text,Select Read engine codes,Fehlerspeicher lesen,Fehlerspeicher lesen,seen in car
+EngineCodes,src/plugins/engine_codes.cpp,text,Engine fault memory,Fehlerspeicher,Fehlerspeicher,seen in car
+EngineCodes,src/plugins/engine_codes.cpp,text,Clears stored codes and freeze-frame data,Löscht Fehler und Umweltdaten,Loescht Fehler und Umweltdaten,seen in car
+EngineCodes,src/plugins/engine_codes.cpp,text,Could not start diagnostics,Diagnose nicht gestartet,Diagnose nicht gestartet,seen in car
+EngineCodes,src/plugins/engine_codes.cpp,text,Clearing engine codes...,Lösche Fehler...,Loesche Fehler...,seen in car
+EngineCodes,src/plugins/engine_codes.cpp,text,Reading codes...,Lese Fehler...,Lese Fehler...,seen in car
+EngineCodes,src/plugins/engine_codes.cpp,text,No diagnostic result returned,Kein Diagnoseergebnis,Kein Diagnoseergebnis,seen in car
+EngineCodes,src/plugins/engine_codes.cpp,text,Description unavailable,Keine Beschreibung,Keine Beschreibung,seen in car
+EngineCodes,src/plugins/engine_codes.cpp,text,Active,Aktiv,Aktiv,seen in car
+EngineCodes,src/plugins/engine_codes.cpp,text,Pending,Offen,Offen,seen in car
+EngineCodes,src/plugins/engine_codes.cpp,text,Stored,Passiv,Passiv,seen in car
+BEAMer,src/plugins/beamer.cpp,text,Could not open lighting worker,Lichtprogramm startet nicht,Lichtprogramm startet nicht,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Could not start lighting worker,Lichtprogramm startet nicht,Lichtprogramm startet nicht,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Checking lighting module and vehicle status,Pruefe Lichtmodul und Fahrzeugstatus,Pruefe Lichtmodul und Fahrzeugstatus,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Playing exterior light pattern,Lichtmuster laeuft,Lichtmuster laeuft,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Pattern finished,Muster beendet,Muster beendet,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Select Park to start a light pattern,Fuer Lichtmuster P einlegen,Fuer Lichtmuster P einlegen,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Stop the vehicle to start a light pattern,Fuer Lichtmuster Fahrzeug anhalten,Fuer Lichtmuster Fahrzeug anhalten,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Could not confirm that the transmission is in Park,Getriebestellung P nicht bestaetigt,Getriebestellung P nicht bestaetigt,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Could not confirm that vehicle speed is zero,Stillstand nicht bestaetigt,Stillstand nicht bestaetigt,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Pattern finished  |  An unsupported lamp was skipped,Muster beendet  |  Eine Lampe uebersprungen,Muster beendet  |  Eine Lampe uebersprungen,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,None of the selected lamps are supported,Keine der Lampen wird unterstuetzt,Keine der Lampen wird unterstuetzt,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Lighting diagnostic session unavailable,Diagnosesitzung Licht nicht moeglich,Diagnosesitzung Licht nicht moeglich,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Lighting module profile unavailable,Lichtmodul nicht unterstuetzt,Lichtmodul nicht unterstuetzt,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Diagnostics busy  |  Try again,Diagnose belegt  |  Nochmal,Diagnose belegt  |  Nochmal,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Lighting gateway unavailable,Gateway nicht erreichbar,Gateway nicht erreichbar,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Lighting module did not confirm the pulse,Lichtmodul bestaetigt den Impuls nicht,Lichtmodul bestaetigt den Impuls nicht,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Lighting connection ended,Verbindung beendet,Verbindung beendet,awaiting display test
+BEAMer,src/plugins/beamer.cpp,text,Stopped,Stopp,Stopp,awaiting display test
+WarmDeck,src/plugins/warm_deck.cpp,text,Waiting for temperature readings,Warte auf Temperaturwerte,Warte auf Temperaturwerte,seen in car
+WarmDeck,src/plugins/warm_deck.cpp,text,Waiting for all three temperatures,Warte auf alle drei Temperaturen,Warte auf alle drei Temperaturen,seen in car
+WarmDeck,src/plugins/warm_deck.cpp,text,Temperature targets reached,Zieltemperaturen erreicht,Zieltemperaturen erreicht,seen in car
+WarmDeck,src/plugins/warm_deck.cpp,text,Measuring warm-up trend,Messe Temperaturanstieg,Messe Temperaturanstieg,seen in car
+WarmDeck,src/plugins/warm_deck.cpp,text,Estimated warm-up  %d:%02d,Warm in etwa  %d:%02d,Warm in etwa  %d:%02d,seen in car
+WarmDeck,src/plugins/warm_deck.cpp,text,Warm-up guide  %u RPM,Bis %u U/min fahren,Bis %u U/min fahren,seen in car
+WarmDeck,src/plugins/warm_deck.cpp,text,Telemetry unavailable,Keine Messwerte,Keine Messwerte,seen in car
+HybridDeck,src/plugins/hybrid_deck.cpp,text,Waiting for battery readings,Warte auf Batteriewerte,Warte auf Batteriewerte,awaiting display test
+HybridDeck,src/plugins/hybrid_deck.cpp,text,Telemetry unavailable,Keine Messwerte,Keine Messwerte,awaiting display test
+HybridDeck,src/plugins/hybrid_deck.cpp,text,Paused. Choose Refresh in Options.,Pause. Optionen: Aktualisieren.,Pause. Optionen: Aktualisieren.,awaiting display test
+HybridDeck,src/plugins/hybrid_deck.cpp,text,Pack power: + discharge / - charge,Leistung: + Entladen / - Laden,Leistung: + Entladen / - Laden,awaiting display test
+HybridDeck,src/plugins/hybrid_deck.cpp,text,Reading the hybrid battery...,Lese Hybridbatterie...,Lese Hybridbatterie...,awaiting display test
+HybridDeck,src/plugins/hybrid_deck.cpp,text,Hybrid battery readings unavailable,Keine Werte der Hybridbatterie,Keine Werte der Hybridbatterie,awaiting display test
+HybridDeck,src/plugins/hybrid_deck.cpp,text,No readings from the diagnostic gateway,Keine Werte vom Diagnose-Gateway,Keine Werte vom Diagnose-Gateway,awaiting display test
+MgFlasher,src/plugins/mg_flasher.cpp,text,No result received from diagnostics,Keine Antwort der Diagnose,Keine Antwort der Diagnose,awaiting display test
+MgFlasher,src/plugins/mg_flasher.cpp,text,Could not start diagnostics,Diagnose startet nicht,Diagnose startet nicht,awaiting display test
+MgFlasher,src/plugins/mg_flasher.cpp,text,Sending live command...,Sende Befehl...,Sende Befehl...,awaiting display test
+MgFlasher,src/plugins/mg_flasher.cpp,text,Reading Custom Code settings...,Lese Einstellungen...,Lese Einstellungen...,awaiting display test
+MgFlasher,src/plugins/mg_flasher.cpp,text,Select a live control. Refresh is available with readback locators.,Bitte Funktion aussuchen. Aktualisieren nur mit Leseadressen.,Bitte Funktion aussuchen. Aktualisieren nur mit Leseadressen.,awaiting display test
+MgFlasher,src/workers/mg_flasher_worker.c,text,%s unavailable,%s fehlt,%s fehlt,awaiting display test
+MgFlasher,src/workers/mg_flasher_worker.c,text,Active settings readback needs vehicle locators. Live commands are available.,Aktive Werte nur mit Leseadressen lesbar. Befehle gehen trotzdem.,Aktive Werte nur mit Leseadressen lesbar. Befehle gehen trotzdem.,awaiting display test
+MgFlasher,src/workers/mg_flasher_worker.c,text,Diagnostics busy. Try again.,Diagnose belegt. Nochmal.,Diagnose belegt. Nochmal.,awaiting display test
+MgFlasher,src/workers/mg_flasher_worker.c,text,HSFZ diagnostic gateway unavailable.,Diagnose-Gateway nicht erreichbar.,Diagnose-Gateway nicht erreichbar.,awaiting display test
+MgFlasher,src/workers/mg_flasher_worker.c,text,MG Flasher request refused (NRC %02X).,MG Flasher: abgelehnt (NRC %02X).,MG Flasher: abgelehnt (NRC %02X).,awaiting display test
+MgFlasher,src/workers/mg_flasher_worker.c,text,No matching DME acknowledgement.,Keine passende DME-Antwort.,Keine passende DME-Antwort.,awaiting display test
+MgFlasher,src/workers/mg_flasher_worker.c,text,Verified: ,Aktiv: ,Aktiv: ,awaiting display test
+MgFlasher,src/workers/mg_flasher_worker.c,text,Acknowledged by DME; active setting unconfirmed.,Von DME angenommen; aktiver Wert offen.,Von DME angenommen; aktiver Wert offen.,awaiting display test
+MgFlasher,src/workers/mg_flasher_worker.c,text,Acknowledged by DME: ,Von DME angenommen: ,Von DME angenommen: ,awaiting display test
+MgFlasher,src/workers/mg_flasher_worker.c,text,Map slot,Map,Map,awaiting display test
+MgFlasher,src/workers/mg_flasher_worker.c,text,Burble slot,Burble,Burble,awaiting display test
+BoostDeck,src/common/boost_signals.def,gauge name,Boost,LADEDRUCK,LADEDRUCK,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Boost,LADEDRUCK,LADEDRUCK,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Boost,LADE,LADE,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,AFR,AFR,AFR,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,AFR,AFR,AFR,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,AFR,AFR,AFR,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Timing,ZÜNDUNG,ZÜNDUNG,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Timing,ZÜNDUNG,ZÜNDUNG,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Ign,ZÜND,ZÜND,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Intake air,ANSAUGLUFT,ANSAUGLUFT,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Intake air,ANSAUG,ANSAUG,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,IAT,LUFT,LUFT,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Trans temp,GETRIEBE,GETRIEBE,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Trans temp,GETRIEBE,GETRIEBE,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,ATF,GETR,GETR,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Rail pressure,RAILDRUCK,RAILDRUCK,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Rail press.,RAILDRUCK,RAILDRUCK,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Rail,RAIL,RAIL,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Oil pressure,ÖLDRUCK,ÖLDRUCK,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Oil press.,ÖLDRUCK,ÖLDRUCK,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Oil P,ÖL P,ÖL P,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Coolant,KÜHLWASSER,KÜHLWASSER,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Coolant,WASSER,WASSER,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Cool,WASS,WASS,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Active ethanol,ETHANOL,ETHANOL,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,E%,E%,E%,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,E%,E%,E%,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Oil temp,ÖLTEMPERATUR,ÖLTEMPERATUR,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Oil temp,ÖLTEMP.,ÖLTEMP.,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Oil T,ÖL T,ÖL T,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Voltage,BATTERIE,BATTERIE,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Voltage,BATTERIE,BATTERIE,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Volt,BATT,BATT,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Engine RPM,DREHZAHL,DREHZAHL,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,RPM,DREHZAHL,DREHZAHL,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,RPM,U/MIN,U/MIN,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Speed,TEMPO,TEMPO,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Speed,TEMPO,TEMPO,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Spd,KM/H,KM/H,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Engine load,MOTORLAST,MOTORLAST,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Eng. load,MOTORLAST,MOTORLAST,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Load,LAST,LAST,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Manifold abs.,SAUGROHRDRUCK,SAUGROHRDRUCK,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Manifold,SAUGROHR,SAUGROHR,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,MAP,MAP,MAP,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Air flow,LUFTMASSE,LUFTMASSE,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Air flow,LUFTMASSE,LUFTMASSE,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,MAF,MAF,MAF,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Throttle,DROSSELKLAPPE,DROSSELKLAPPE,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Throttle,DROSSEL,DROSSEL,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,TPS,DK,DK,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Barometric,LUFTDRUCK,LUFTDRUCK,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Baro,LUFTDRUCK,LUFTDRUCK,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Baro,BARO,BARO,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Outside air,AUSSENLUFT,AUSSENLUFT,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Outside,AUSSEN,AUSSEN,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Amb,AUSS,AUSS,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Fuel rate,VERBRAUCH,VERBRAUCH,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Fuel rate,VERBRAUCH,VERBRAUCH,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Rate,L/H,L/H,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Fuel level,TANKINHALT,TANKINHALT,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Fuel level,TANK,TANK,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Fuel,TANK,TANK,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Accel. pedal,GASPEDAL,GASPEDAL,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Pedal,GASPEDAL,GASPEDAL,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,APP,GAS,GAS,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Spark advance,ZÜNDWINKEL,ZÜNDWINKEL,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Spark adv.,ZÜNDWINK.,ZÜNDWINK.,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Adv,ZW,ZW,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Absolute load,ABSOLUTE LAST,ABSOLUTE LAST,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Abs. load,ABS. LAST,ABS. LAST,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Abs,ABS,ABS,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,STFT bank 1,STFT BANK 1,STFT BANK 1,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,STFT B1,STFT B1,STFT B1,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,ST1,ST1,ST1,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,LTFT bank 1,LTFT BANK 1,LTFT BANK 1,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,LTFT B1,LTFT B1,LTFT B1,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,LT1,LT1,LT1,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,STFT bank 2,STFT BANK 2,STFT BANK 2,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,STFT B2,STFT B2,STFT B2,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,ST2,ST2,ST2,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,LTFT bank 2,LTFT BANK 2,LTFT BANK 2,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,LTFT B2,LTFT B2,LTFT B2,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,LT2,LT2,LT2,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Lambda target,LAMBDA SOLL,LAMBDA SOLL,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Lambda,LAMBDA,LAMBDA,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Lam,LAM,LAM,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Catalyst temp,KAT-TEMPERATUR,KAT-TEMPERATUR,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Cat temp,KAT-TEMP.,KAT-TEMP.,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,Cat,KAT,KAT,seen in car
+BoostDeck,src/common/boost_signals.def,gauge name,Throttle target,DROSSEL SOLL,DROSSEL SOLL,seen in car
+BoostDeck,src/common/boost_signals.def,tile caption,Target TPS,DK SOLL,DK SOLL,seen in car
+BoostDeck,src/common/boost_signals.def,narrow caption,TGT,SOLL,SOLL,seen in car

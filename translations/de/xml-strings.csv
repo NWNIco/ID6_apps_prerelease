@@ -1,0 +1,107 @@
+app,source,english,german,display_test
+BoostDeck,manifests/BoostDeck.xml,BoostDeck settings,Einstellungen,seen in car
+BoostDeck,manifests/BoostDeck.xml,Configure gauges,Anzeigen belegen,seen in car
+BoostDeck,manifests/BoostDeck.xml,Pressure,Druck,seen in car
+BoostDeck,manifests/BoostDeck.xml,Speed,Tempo,seen in car
+BoostDeck,manifests/BoostDeck.xml,Temperature,Temperatur,seen in car
+BoostDeck,manifests/BoostDeck.xml,Gauge style,Anzeigestil,seen in car
+BoostDeck,manifests/BoostDeck.xml,Alert mode,Warnung,seen in car
+BoostDeck,manifests/BoostDeck.xml,Coolant high,Kühlwasser zu heiß,seen in car
+BoostDeck,manifests/BoostDeck.xml,Oil temp high,Öltemperatur zu hoch,seen in car
+BoostDeck,manifests/BoostDeck.xml,Oil pressure low,Öldruck zu niedrig,seen in car
+BoostDeck,manifests/BoostDeck.xml,Gauge color,Farbe,seen in car
+BoostDeck,manifests/BoostDeck.xml,Blue,Blau,seen in car
+BoostDeck,manifests/BoostDeck.xml,Green,Grün,seen in car
+BoostDeck,manifests/BoostDeck.xml,White,Weiß,seen in car
+BoostDeck,manifests/BoostDeck.xml,Purple,Lila,seen in car
+BoostDeck,manifests/BoostDeck.xml,Red,Rot,seen in car
+BoostDeck,manifests/BoostDeck.xml,Multicolor,Mehrfarbig,seen in car
+BoostDeck,manifests/BoostDeck.xml,Engine profile,Motorprofil,seen in car
+BoostDeck,manifests/BoostDeck.xml,Gasoline,Benzin,seen in car
+BoostDeck,manifests/BoostDeck.xml,Diesel (standard OBD PIDs),Diesel (Standard-OBD-Werte),seen in car
+BoostDeck,manifests/BoostDeck.xml,Gauge 1,Anzeige 1,seen in car
+BoostDeck,manifests/BoostDeck.xml,Boost,Ladedruck,seen in car
+BoostDeck,manifests/BoostDeck.xml,Timing,Zündung,seen in car
+BoostDeck,manifests/BoostDeck.xml,Intake air,Ansaugluft,seen in car
+BoostDeck,manifests/BoostDeck.xml,Trans temp,Getriebe,seen in car
+BoostDeck,manifests/BoostDeck.xml,Rail pressure,Raildruck,seen in car
+BoostDeck,manifests/BoostDeck.xml,Oil pressure,Öldruck,seen in car
+BoostDeck,manifests/BoostDeck.xml,Coolant,Kühlwasser,seen in car
+BoostDeck,manifests/BoostDeck.xml,Active ethanol,Ethanol,seen in car
+BoostDeck,manifests/BoostDeck.xml,Oil temp,Öltemperatur,seen in car
+BoostDeck,manifests/BoostDeck.xml,Voltage,Batterie,seen in car
+BoostDeck,manifests/BoostDeck.xml,Engine RPM,Drehzahl,seen in car
+BoostDeck,manifests/BoostDeck.xml,Engine load,Motorlast,seen in car
+BoostDeck,manifests/BoostDeck.xml,Manifold abs.,Saugrohrdruck,seen in car
+BoostDeck,manifests/BoostDeck.xml,Air flow,Luftmasse,seen in car
+BoostDeck,manifests/BoostDeck.xml,Throttle,Drosselklappe,seen in car
+BoostDeck,manifests/BoostDeck.xml,Barometric,Luftdruck,seen in car
+BoostDeck,manifests/BoostDeck.xml,Outside air,Außenluft,seen in car
+BoostDeck,manifests/BoostDeck.xml,Fuel rate,Verbrauch,seen in car
+BoostDeck,manifests/BoostDeck.xml,Fuel level,Tankinhalt,seen in car
+BoostDeck,manifests/BoostDeck.xml,Accel. pedal,Gaspedal,seen in car
+BoostDeck,manifests/BoostDeck.xml,Spark advance,Zündwinkel,seen in car
+BoostDeck,manifests/BoostDeck.xml,Absolute load,Absolute Last,seen in car
+BoostDeck,manifests/BoostDeck.xml,STFT bank 1,STFT Bank 1,seen in car
+BoostDeck,manifests/BoostDeck.xml,LTFT bank 1,LTFT Bank 1,seen in car
+BoostDeck,manifests/BoostDeck.xml,STFT bank 2,STFT Bank 2,seen in car
+BoostDeck,manifests/BoostDeck.xml,LTFT bank 2,LTFT Bank 2,seen in car
+BoostDeck,manifests/BoostDeck.xml,Lambda target,Lambda Soll,seen in car
+BoostDeck,manifests/BoostDeck.xml,Catalyst temp,Kat-Temperatur,seen in car
+BoostDeck,manifests/BoostDeck.xml,Throttle target,Drossel Soll,seen in car
+BoostDeck,manifests/BoostDeck.xml,Gauge 2,Anzeige 2,seen in car
+BoostDeck,manifests/BoostDeck.xml,Gauge 3,Anzeige 3,seen in car
+BoostDeck,manifests/BoostDeck.xml,Gauge 4,Anzeige 4,seen in car
+BoostDeck,manifests/BoostDeck.xml,Gauge 5,Anzeige 5,seen in car
+BoostDeck,manifests/BoostDeck.xml,Gauge 6,Anzeige 6,seen in car
+BoostDeck,manifests/BoostDeck.xml,Gauge 7,Anzeige 7,seen in car
+BoostDeck,manifests/BoostDeck.xml,Gauge 8,Anzeige 8,seen in car
+BoostDeck,manifests/BoostDeck.xml,Gauge 9,Anzeige 9,seen in car
+ShiftDeck,manifests/ShiftDeck.xml,Shift light setting,Schaltpunkt-Drehzahl,seen in car
+ShiftDeck,manifests/ShiftDeck.xml,Units: Imperial,Einheiten: Imperial (°F / psi),seen in car
+ShiftDeck,manifests/ShiftDeck.xml,Units: Metric,Einheiten: Metrisch (°C / bar),seen in car
+ShiftDeck,manifests/ShiftDeck.xml,"5,800 RPM",5.800 U/min,seen in car
+ShiftDeck,manifests/ShiftDeck.xml,"6,000 RPM",6.000 U/min,seen in car
+ShiftDeck,manifests/ShiftDeck.xml,"6,250 RPM",6.250 U/min,seen in car
+ShiftDeck,manifests/ShiftDeck.xml,"6,500 RPM",6.500 U/min,seen in car
+ShiftDeck,manifests/ShiftDeck.xml,"6,700 RPM",6.700 U/min,seen in car
+EngineCodes,manifests/EngineCodes.xml,Next page,Nächste Seite,seen in car
+EngineCodes,manifests/EngineCodes.xml,Clear engine codes...,Fehlerspeicher löschen …,seen in car
+EngineCodes,manifests/EngineCodes.xml,Read engine codes,Fehlerspeicher lesen,seen in car
+EngineCodes,manifests/EngineCodes.xml,Clear engine codes?,Fehlerspeicher wirklich löschen?,seen in car
+EngineCodes,manifests/EngineCodes.xml,Confirm clear engine codes,Löschen bestätigen,seen in car
+MhdMaps,manifests/MhdMaps.xml,Exhaust Flap,Klappensteuerung,seen in car
+Bootmod3Suite,manifests/Bootmod3Suite.xml,Exhaust flap,Klappensteuerung,awaiting display test
+Bootmod3Suite,manifests/Bootmod3Suite.xml,OEM control,OEM-Steuerung (Automatik),awaiting display test
+Bootmod3Suite,manifests/Bootmod3Suite.xml,Request open,Klappe auf,awaiting display test
+Bootmod3Suite,manifests/Bootmod3Suite.xml,Request closed,Klappe zu,awaiting display test
+Bootmod3Suite,manifests/Bootmod3Suite.xml,Off,Aus,awaiting display test
+Bootmod3Suite,manifests/Bootmod3Suite.xml,On,Ein,awaiting display test
+Bootmod3Suite,manifests/Bootmod3Suite.xml,Aggression 4,Stufe 4,awaiting display test
+Bootmod3Suite,manifests/Bootmod3Suite.xml,Aggression 8,Stufe 8,awaiting display test
+Bootmod3Suite,manifests/Bootmod3Suite.xml,Aggression 12,Stufe 12,awaiting display test
+XDriveControl,manifests/XDriveControl.xml,Read transfer case mode,Verteilergetriebe-Modus lesen,awaiting display test
+XDriveControl,manifests/XDriveControl.xml,Request rear-wheel drive,Heckantrieb anfordern,awaiting display test
+XDriveControl,manifests/XDriveControl.xml,Restore all-wheel drive,Allrad wiederherstellen,awaiting display test
+XDriveControl,manifests/XDriveControl.xml,Confirm rear-wheel drive,Heckantrieb bestätigen,awaiting display test
+XDriveControl,manifests/XDriveControl.xml,"In Park, parking brake set. Engine off, or running on F-series DSC_25.","In P, Parkbremse an. Motor aus – bei F-Serie (DSC_25) Motor an.",awaiting display test
+XDriveControl,manifests/XDriveControl.xml,Confirm all-wheel drive,Allrad bestätigen,awaiting display test
+WarmDeck,manifests/WarmDeck.xml,Engine oil,Motoröl,seen in car
+WarmDeck,manifests/WarmDeck.xml,Target 85 C,Ziel 85 °C,seen in car
+WarmDeck,manifests/WarmDeck.xml,Coolant,Kühlwasser,seen in car
+WarmDeck,manifests/WarmDeck.xml,Target 75 C,Ziel 75 °C,seen in car
+WarmDeck,manifests/WarmDeck.xml,Transmission,Getriebe,seen in car
+WarmDeck,manifests/WarmDeck.xml,Target 40 C,Ziel 40 °C,seen in car
+HybridDeck,manifests/HybridDeck.xml,Refresh,Aktualisieren,awaiting display test
+HybridDeck,manifests/HybridDeck.xml,HV charge,HV-Ladung,awaiting display test
+HybridDeck,manifests/HybridDeck.xml,Battery power,Batterieleistung,awaiting display test
+HybridDeck,manifests/HybridDeck.xml,Battery health,Batteriezustand,awaiting display test
+HybridDeck,manifests/HybridDeck.xml,Pack voltage,Batteriespannung,awaiting display test
+HybridDeck,manifests/HybridDeck.xml,Pack current,Batteriestrom,awaiting display test
+HybridDeck,manifests/HybridDeck.xml,Battery coolant,Batteriekühlung,awaiting display test
+HybridDeck,manifests/HybridDeck.xml,Engine coolant,Kühlwasser Motor,awaiting display test
+HybridDeck,manifests/HybridDeck.xml,12 V module voltage,12-V-Bordnetz,awaiting display test
+MgFlasher,manifests/MgFlasher.xml,Refresh current settings,Aktuelle Einstellungen lesen,awaiting display test
+MgFlasher,manifests/MgFlasher.xml,Switchable maps,Map-Auswahl,awaiting display test
+MgFlasher,manifests/MgFlasher.xml,Off,Aus,awaiting display test
+MgFlasher,manifests/MgFlasher.xml,On,Ein,awaiting display test
