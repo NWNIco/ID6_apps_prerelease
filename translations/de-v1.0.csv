@@ -1,0 +1,305 @@
+app,file,kind,english,german,bytes_on_unit,status
+BoostDeck,BoostDeck.xml,XML (UTF-8),BoostDeck settings,Einstellungen,Einstellungen,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Configure gauges,Anzeigen belegen,Anzeigen belegen,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Pressure,Druck,Druck,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Speed,Tempo,Tempo,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Temperature,Temperatur,Temperatur,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Gauge style,Anzeigestil,Anzeigestil,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Alert mode,Warnung,Warnung,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Coolant high,Kühlwasser zu heiß,Kühlwasser zu heiß,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Oil temp high,Öltemperatur zu hoch,Öltemperatur zu hoch,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Oil pressure low,Öldruck zu niedrig,Öldruck zu niedrig,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Gauge color,Farbe,Farbe,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Blue,Blau,Blau,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Green,Grün,Grün,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),White,Weiß,Weiß,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Purple,Lila,Lila,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Red,Rot,Rot,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Multicolor,Mehrfarbig,Mehrfarbig,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Engine profile,Motorprofil,Motorprofil,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Gasoline,Benzin,Benzin,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Diesel (standard OBD PIDs),Diesel (Standard-OBD-Werte),Diesel (Standard-OBD-Werte),"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Gauge 1,Anzeige 1,Anzeige 1,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Boost,Ladedruck,Ladedruck,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Timing,Zündung,Zündung,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Intake air,Ansaugluft,Ansaugluft,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Trans temp,Getriebe,Getriebe,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Rail pressure,Raildruck,Raildruck,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Oil pressure,Öldruck,Öldruck,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Coolant,Kühlwasser,Kühlwasser,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Active ethanol,Ethanol,Ethanol,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Oil temp,Öltemperatur,Öltemperatur,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Voltage,Batterie,Batterie,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Engine RPM,Drehzahl,Drehzahl,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Engine load,Motorlast,Motorlast,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Manifold abs.,Saugrohrdruck,Saugrohrdruck,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Air flow,Luftmasse,Luftmasse,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Throttle,Drosselklappe,Drosselklappe,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Barometric,Luftdruck,Luftdruck,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Outside air,Außenluft,Außenluft,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Fuel rate,Verbrauch,Verbrauch,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Fuel level,Tankinhalt,Tankinhalt,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Accel. pedal,Gaspedal,Gaspedal,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Spark advance,Zündwinkel,Zündwinkel,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Absolute load,Absolute Last,Absolute Last,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),STFT bank 1,STFT Bank 1,STFT Bank 1,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),LTFT bank 1,LTFT Bank 1,LTFT Bank 1,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),STFT bank 2,STFT Bank 2,STFT Bank 2,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),LTFT bank 2,LTFT Bank 2,LTFT Bank 2,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Lambda target,Lambda Soll,Lambda Soll,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Catalyst temp,Kat-Temperatur,Kat-Temperatur,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Throttle target,Drossel Soll,Drossel Soll,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Gauge 2,Anzeige 2,Anzeige 2,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Gauge 3,Anzeige 3,Anzeige 3,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Gauge 4,Anzeige 4,Anzeige 4,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Gauge 5,Anzeige 5,Anzeige 5,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Gauge 6,Anzeige 6,Anzeige 6,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Gauge 7,Anzeige 7,Anzeige 7,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Gauge 8,Anzeige 8,Anzeige 8,"XML UTF-8, unchanged"
+BoostDeck,BoostDeck.xml,XML (UTF-8),Gauge 9,Anzeige 9,Anzeige 9,"XML UTF-8, unchanged"
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Gauge color: %s,Farbe: %s,Farbe: %s,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Gauge %u: %s,Anzeige %u: %s,Anzeige %u: %s,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Engine profile: Gasoline,Motorprofil: Benzin,Motorprofil: Benzin,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Engine profile: Diesel,Motorprofil: Diesel,Motorprofil: Diesel,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Could not save settings,Nicht gespeichert,Nicht gespeichert,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Could not save gauge selection,Auswahl nicht gespeichert,Auswahl nicht gespeichert,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Could not save engine profile,Profil nicht gespeichert,Profil nicht gespeichert,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Pressure,Druck,Druck,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Speed,Tempo,Tempo,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Bars,Balken,Balken,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Temperature,Temperatur,Temperatur,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Gauge style,Anzeigestil,Anzeigestil,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Alert mode,Warnung,Warnung,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Coolant high,Wasser hoch,Wasser hoch,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Coolant hot,Wasser hoch,Wasser hoch,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Oil temp high,Oeltemp. hoch,Oeltemp. hoch,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Oil pressure low,Oeldruck niedrig,Oeldruck niedrig,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Circular dials,Rundanzeigen,Rundanzeigen,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Screen + soft chime,Anzeige + Ton,Anzeige + Ton,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Screen only,Nur Anzeige,Nur Anzeige,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Off,Aus,Aus,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Blue,Blau,Blau,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Green,Gruen,Gruen,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),White,Weiss,Weiss,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Purple,Lila,Lila,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Red,Rot,Rot,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,C/C++ (shown as ISO-8859-1),Multicolor,Mehrfarbig,Mehrfarbig,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+ShiftDeck,ShiftDeck.xml,XML (UTF-8),Shift light setting,Schaltpunkt-Drehzahl,Schaltpunkt-Drehzahl,"XML UTF-8, unchanged"
+ShiftDeck,ShiftDeck.xml,XML (UTF-8),Units: Imperial,Einheiten: Imperial (°F / psi),Einheiten: Imperial (°F / psi),"XML UTF-8, unchanged"
+ShiftDeck,ShiftDeck.xml,XML (UTF-8),Units: Metric,Einheiten: Metrisch (°C / bar),Einheiten: Metrisch (°C / bar),"XML UTF-8, unchanged"
+ShiftDeck,ShiftDeck.xml,XML (UTF-8),"5,800 RPM",5.800 U/min,5.800 U/min,"XML UTF-8, unchanged"
+ShiftDeck,ShiftDeck.xml,XML (UTF-8),"6,000 RPM",6.000 U/min,6.000 U/min,"XML UTF-8, unchanged"
+ShiftDeck,ShiftDeck.xml,XML (UTF-8),"6,250 RPM",6.250 U/min,6.250 U/min,"XML UTF-8, unchanged"
+ShiftDeck,ShiftDeck.xml,XML (UTF-8),"6,500 RPM",6.500 U/min,6.500 U/min,"XML UTF-8, unchanged"
+ShiftDeck,ShiftDeck.xml,XML (UTF-8),"6,700 RPM",6.700 U/min,6.700 U/min,"XML UTF-8, unchanged"
+ShiftDeck,libShiftDeck.so,C/C++ (shown as ISO-8859-1),Shift light at %u RPM,Schaltpunkt %u U/min,Schaltpunkt %u U/min,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,EngineCodes.xml,XML (UTF-8),Next page,Nächste Seite,Nächste Seite,"XML UTF-8, unchanged"
+EngineCodes,EngineCodes.xml,XML (UTF-8),Clear engine codes...,Fehlerspeicher löschen …,Fehlerspeicher löschen …,"XML UTF-8, unchanged"
+EngineCodes,EngineCodes.xml,XML (UTF-8),Read engine codes,Fehlerspeicher lesen,Fehlerspeicher lesen,"XML UTF-8, unchanged"
+EngineCodes,EngineCodes.xml,XML (UTF-8),Clear engine codes?,Fehlerspeicher wirklich löschen?,Fehlerspeicher wirklich löschen?,"XML UTF-8, unchanged"
+EngineCodes,EngineCodes.xml,XML (UTF-8),Confirm clear engine codes,Löschen bestätigen,Löschen bestätigen,"XML UTF-8, unchanged"
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),Diagnostic gateway unavailable,Gateway nicht erreichbar,Gateway nicht erreichbar,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),Clear refused (NRC %02X); extended session refused (%02X),Abgelehnt (NRC %02X); Sitzung abgelehnt (%02X),Abgelehnt (NRC %02X); Sitzung abgelehnt (%02X),ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),Clear refused (NRC %02X). Park with ignition on and engine off.,"Abgelehnt (NRC %02X). P, Zündung an, Motor aus.","Abgelehnt (NRC %02X). P, Zuendung an, Motor aus.",ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),Clear refused (NRC 33). The DME requires authorized diagnostics.,Abgelehnt (NRC 33). DME verlangt Freischaltung.,Abgelehnt (NRC 33). DME verlangt Freischaltung.,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),Clear rejected by DME (NRC %02X),Vom DME abgelehnt (NRC %02X),Vom DME abgelehnt (NRC %02X),ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),Clear unconfirmed. Read engine codes before retrying.,Unbestätigt. Erst Fehler neu lesen.,Unbestaetigt. Erst Fehler neu lesen.,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),Clear accepted; recheck refused (NRC %02X),Gelöscht; Kontrolle abgelehnt (NRC %02X),Geloescht; Kontrolle abgelehnt (NRC %02X),ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),Clear accepted; %d engine %s remain%s,Gelöscht; noch %d %s%.0s,Geloescht; noch %d %s%.0s,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),Clear acknowledged; recheck unavailable,Löschen bestätigt; keine Kontrolle,Loeschen bestaetigt; keine Kontrolle,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),No valid code response,Keine gültige Antwort,Keine gueltige Antwort,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),Engine: %d %s,Motor: %d %s,Motor: %d %s,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),code,Code,Code,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),codes,Codes,Codes,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),Read rejected (NRC %02X),Abgelehnt (NRC %02X),Abgelehnt (NRC %02X),ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),More codes returned; first 128 shown,Mehr Codes; erste 128 gezeigt,Mehr Codes; erste 128 gezeigt,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),Diagnostics busy. Wait a moment and try again.,Diagnose belegt. Bitte erneut versuchen.,Diagnose belegt. Bitte erneut versuchen.,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,engine-codes-qnx,C/C++ (shown as ISO-8859-1),More codes may exist,Evtl. weitere Codes,Evtl. weitere Codes,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,libEngineCodes.so,C/C++ (shown as ISO-8859-1),Select Read engine codes,Fehlerspeicher lesen,Fehlerspeicher lesen,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,libEngineCodes.so,C/C++ (shown as ISO-8859-1),Engine fault memory,Fehlerspeicher,Fehlerspeicher,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,libEngineCodes.so,C/C++ (shown as ISO-8859-1),Clears stored codes and freeze-frame data,Löscht Fehler und Umweltdaten,Loescht Fehler und Umweltdaten,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,libEngineCodes.so,C/C++ (shown as ISO-8859-1),Could not start diagnostics,Diagnose nicht gestartet,Diagnose nicht gestartet,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,libEngineCodes.so,C/C++ (shown as ISO-8859-1),Clearing engine codes...,Lösche Fehler...,Loesche Fehler...,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,libEngineCodes.so,C/C++ (shown as ISO-8859-1),Reading codes...,Lese Fehler...,Lese Fehler...,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,libEngineCodes.so,C/C++ (shown as ISO-8859-1),No diagnostic result returned,Kein Diagnoseergebnis,Kein Diagnoseergebnis,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,libEngineCodes.so,C/C++ (shown as ISO-8859-1),Description unavailable,Keine Beschreibung,Keine Beschreibung,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,libEngineCodes.so,C/C++ (shown as ISO-8859-1),Active,Aktiv,Aktiv,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,libEngineCodes.so,C/C++ (shown as ISO-8859-1),Pending,Offen,Offen,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+EngineCodes,libEngineCodes.so,C/C++ (shown as ISO-8859-1),Stored,Passiv,Passiv,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MhdMaps,MhdMaps.xml,XML (UTF-8),Exhaust Flap,Klappensteuerung,Klappensteuerung,"XML UTF-8, unchanged"
+Bootmod3Suite,Bootmod3Suite.xml,XML (UTF-8),Exhaust flap,Klappensteuerung,Klappensteuerung,"XML UTF-8, unchanged"
+Bootmod3Suite,Bootmod3Suite.xml,XML (UTF-8),OEM control,OEM-Steuerung (Automatik),OEM-Steuerung (Automatik),"XML UTF-8, unchanged"
+Bootmod3Suite,Bootmod3Suite.xml,XML (UTF-8),Request open,Klappe auf,Klappe auf,"XML UTF-8, unchanged"
+Bootmod3Suite,Bootmod3Suite.xml,XML (UTF-8),Request closed,Klappe zu,Klappe zu,"XML UTF-8, unchanged"
+Bootmod3Suite,Bootmod3Suite.xml,XML (UTF-8),Off,Aus,Aus,"XML UTF-8, unchanged"
+Bootmod3Suite,Bootmod3Suite.xml,XML (UTF-8),On,Ein,Ein,"XML UTF-8, unchanged"
+Bootmod3Suite,Bootmod3Suite.xml,XML (UTF-8),Aggression 4,Stufe 4,Stufe 4,"XML UTF-8, unchanged"
+Bootmod3Suite,Bootmod3Suite.xml,XML (UTF-8),Aggression 8,Stufe 8,Stufe 8,"XML UTF-8, unchanged"
+Bootmod3Suite,Bootmod3Suite.xml,XML (UTF-8),Aggression 12,Stufe 12,Stufe 12,"XML UTF-8, unchanged"
+XDriveControl,XDriveControl.xml,XML (UTF-8),Read transfer case mode,Verteilergetriebe-Modus lesen,Verteilergetriebe-Modus lesen,"XML UTF-8, unchanged"
+XDriveControl,XDriveControl.xml,XML (UTF-8),Request rear-wheel drive,Heckantrieb anfordern,Heckantrieb anfordern,"XML UTF-8, unchanged"
+XDriveControl,XDriveControl.xml,XML (UTF-8),Restore all-wheel drive,Allrad wiederherstellen,Allrad wiederherstellen,"XML UTF-8, unchanged"
+XDriveControl,XDriveControl.xml,XML (UTF-8),Confirm rear-wheel drive,Heckantrieb bestätigen,Heckantrieb bestätigen,"XML UTF-8, unchanged"
+XDriveControl,XDriveControl.xml,XML (UTF-8),"In Park, parking brake set. Engine off, or running on F-series DSC_25.","In P, Parkbremse an. Motor aus – bei F-Serie (DSC_25) Motor an.","In P, Parkbremse an. Motor aus – bei F-Serie (DSC_25) Motor an.","XML UTF-8, unchanged"
+XDriveControl,XDriveControl.xml,XML (UTF-8),Confirm all-wheel drive,Allrad bestätigen,Allrad bestätigen,"XML UTF-8, unchanged"
+HudTest,HudTest.xml,XML (UTF-8),Show HUD gauges,HUD-Anzeigen einblenden,HUD-Anzeigen einblenden,"XML UTF-8, unchanged"
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Could not open lighting worker,Lichtprogramm startet nicht,Lichtprogramm startet nicht,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Could not start lighting worker,Lichtprogramm startet nicht,Lichtprogramm startet nicht,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Checking lighting module and vehicle status,Pruefe Lichtmodul und Fahrzeugstatus,Pruefe Lichtmodul und Fahrzeugstatus,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Playing exterior light pattern,Lichtmuster laeuft,Lichtmuster laeuft,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Pattern finished,Muster beendet,Muster beendet,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Select Park to start a light pattern,Fuer Lichtmuster P einlegen,Fuer Lichtmuster P einlegen,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Stop the vehicle to start a light pattern,Fuer Lichtmuster Fahrzeug anhalten,Fuer Lichtmuster Fahrzeug anhalten,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Could not confirm that the transmission is in Park,Getriebestellung P nicht bestaetigt,Getriebestellung P nicht bestaetigt,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Could not confirm that vehicle speed is zero,Stillstand nicht bestaetigt,Stillstand nicht bestaetigt,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Pattern finished  |  An unsupported lamp was skipped,Muster beendet  |  Eine Lampe uebersprungen,Muster beendet  |  Eine Lampe uebersprungen,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),None of the selected lamps are supported,Keine der Lampen wird unterstuetzt,Keine der Lampen wird unterstuetzt,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Lighting diagnostic session unavailable,Diagnosesitzung Licht nicht moeglich,Diagnosesitzung Licht nicht moeglich,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Lighting module profile unavailable,Lichtmodul nicht unterstuetzt,Lichtmodul nicht unterstuetzt,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Diagnostics busy  |  Try again,Diagnose belegt  |  Nochmal,Diagnose belegt  |  Nochmal,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Lighting gateway unavailable,Gateway nicht erreichbar,Gateway nicht erreichbar,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Lighting module did not confirm the pulse,Lichtmodul bestaetigt den Impuls nicht,Lichtmodul bestaetigt den Impuls nicht,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Lighting connection ended,Verbindung beendet,Verbindung beendet,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BEAMer,libBEAMer.so,C/C++ (shown as ISO-8859-1),Stopped,Stopp,Stopp,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+WarmDeck,WarmDeck.xml,XML (UTF-8),Engine oil,Motoröl,Motoröl,"XML UTF-8, unchanged"
+WarmDeck,WarmDeck.xml,XML (UTF-8),Target 85 C,Ziel 85 °C,Ziel 85 °C,"XML UTF-8, unchanged"
+WarmDeck,WarmDeck.xml,XML (UTF-8),Coolant,Kühlwasser,Kühlwasser,"XML UTF-8, unchanged"
+WarmDeck,WarmDeck.xml,XML (UTF-8),Target 75 C,Ziel 75 °C,Ziel 75 °C,"XML UTF-8, unchanged"
+WarmDeck,WarmDeck.xml,XML (UTF-8),Transmission,Getriebe,Getriebe,"XML UTF-8, unchanged"
+WarmDeck,WarmDeck.xml,XML (UTF-8),Target 40 C,Ziel 40 °C,Ziel 40 °C,"XML UTF-8, unchanged"
+WarmDeck,libWarmDeck.so,C/C++ (shown as ISO-8859-1),Waiting for temperature readings,Warte auf Temperaturwerte,Warte auf Temperaturwerte,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+WarmDeck,libWarmDeck.so,C/C++ (shown as ISO-8859-1),Waiting for all three temperatures,Warte auf alle drei Temperaturen,Warte auf alle drei Temperaturen,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+WarmDeck,libWarmDeck.so,C/C++ (shown as ISO-8859-1),Temperature targets reached,Zieltemperaturen erreicht,Zieltemperaturen erreicht,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+WarmDeck,libWarmDeck.so,C/C++ (shown as ISO-8859-1),Measuring warm-up trend,Messe Temperaturanstieg,Messe Temperaturanstieg,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+WarmDeck,libWarmDeck.so,C/C++ (shown as ISO-8859-1),Estimated warm-up  %d:%02d,Warm in etwa  %d:%02d,Warm in etwa  %d:%02d,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+WarmDeck,libWarmDeck.so,C/C++ (shown as ISO-8859-1),Warm-up guide  %u RPM,Bis %u U/min fahren,Bis %u U/min fahren,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+WarmDeck,libWarmDeck.so,C/C++ (shown as ISO-8859-1),Telemetry unavailable,Keine Messwerte,Keine Messwerte,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+HybridDeck,HybridDeck.xml,XML (UTF-8),Refresh,Aktualisieren,Aktualisieren,"XML UTF-8, unchanged"
+HybridDeck,HybridDeck.xml,XML (UTF-8),HV charge,HV-Ladung,HV-Ladung,"XML UTF-8, unchanged"
+HybridDeck,HybridDeck.xml,XML (UTF-8),Battery power,Batterieleistung,Batterieleistung,"XML UTF-8, unchanged"
+HybridDeck,HybridDeck.xml,XML (UTF-8),Battery health,Batteriezustand,Batteriezustand,"XML UTF-8, unchanged"
+HybridDeck,HybridDeck.xml,XML (UTF-8),Pack voltage,Batteriespannung,Batteriespannung,"XML UTF-8, unchanged"
+HybridDeck,HybridDeck.xml,XML (UTF-8),Pack current,Batteriestrom,Batteriestrom,"XML UTF-8, unchanged"
+HybridDeck,HybridDeck.xml,XML (UTF-8),Battery coolant,Batteriekühlung,Batteriekühlung,"XML UTF-8, unchanged"
+HybridDeck,HybridDeck.xml,XML (UTF-8),Engine coolant,Kühlwasser Motor,Kühlwasser Motor,"XML UTF-8, unchanged"
+HybridDeck,HybridDeck.xml,XML (UTF-8),12 V module voltage,12-V-Bordnetz,12-V-Bordnetz,"XML UTF-8, unchanged"
+HybridDeck,libHybridDeck.so,C/C++ (shown as ISO-8859-1),Waiting for battery readings,Warte auf Batteriewerte,Warte auf Batteriewerte,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+HybridDeck,libHybridDeck.so,C/C++ (shown as ISO-8859-1),Telemetry unavailable,Keine Messwerte,Keine Messwerte,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+HybridDeck,libHybridDeck.so,C/C++ (shown as ISO-8859-1),Paused. Choose Refresh in Options.,Pause. Optionen: Aktualisieren.,Pause. Optionen: Aktualisieren.,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+HybridDeck,libHybridDeck.so,C/C++ (shown as ISO-8859-1),Pack power: + discharge / - charge,Leistung: + Entladen / - Laden,Leistung: + Entladen / - Laden,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+HybridDeck,libHybridDeck.so,C/C++ (shown as ISO-8859-1),Reading the hybrid battery...,Lese Hybridbatterie...,Lese Hybridbatterie...,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+HybridDeck,libHybridDeck.so,C/C++ (shown as ISO-8859-1),Hybrid battery readings unavailable,Keine Werte der Hybridbatterie,Keine Werte der Hybridbatterie,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+HybridDeck,libHybridDeck.so,C/C++ (shown as ISO-8859-1),No readings from the diagnostic gateway,Keine Werte vom Diagnose-Gateway,Keine Werte vom Diagnose-Gateway,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,MgFlasher.xml,XML (UTF-8),Refresh current settings,Aktuelle Einstellungen lesen,Aktuelle Einstellungen lesen,"XML UTF-8, unchanged"
+MgFlasher,MgFlasher.xml,XML (UTF-8),Switchable maps,Map-Auswahl,Map-Auswahl,"XML UTF-8, unchanged"
+MgFlasher,MgFlasher.xml,XML (UTF-8),Off,Aus,Aus,"XML UTF-8, unchanged"
+MgFlasher,MgFlasher.xml,XML (UTF-8),On,Ein,Ein,"XML UTF-8, unchanged"
+MgFlasher,libMgFlasher.so,C/C++ (shown as ISO-8859-1),No result received from diagnostics,Keine Antwort der Diagnose,Keine Antwort der Diagnose,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,libMgFlasher.so,C/C++ (shown as ISO-8859-1),Could not start diagnostics,Diagnose startet nicht,Diagnose startet nicht,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,libMgFlasher.so,C/C++ (shown as ISO-8859-1),Sending live command...,Sende Befehl...,Sende Befehl...,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,libMgFlasher.so,C/C++ (shown as ISO-8859-1),Reading Custom Code settings...,Lese Einstellungen...,Lese Einstellungen...,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,libMgFlasher.so,C/C++ (shown as ISO-8859-1),Select a live control. Refresh is available with readback locators.,Bitte Funktion aussuchen. Aktualisieren nur mit Leseadressen.,Bitte Funktion aussuchen. Aktualisieren nur mit Leseadressen.,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,mgflasher-qnx,C/C++ (shown as ISO-8859-1),%s unavailable,%s fehlt,%s fehlt,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,mgflasher-qnx,C/C++ (shown as ISO-8859-1),Active settings readback needs vehicle locators. Live commands are available.,Aktive Werte nur mit Leseadressen lesbar. Befehle gehen trotzdem.,Aktive Werte nur mit Leseadressen lesbar. Befehle gehen trotzdem.,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,mgflasher-qnx,C/C++ (shown as ISO-8859-1),Diagnostics busy. Try again.,Diagnose belegt. Nochmal.,Diagnose belegt. Nochmal.,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,mgflasher-qnx,C/C++ (shown as ISO-8859-1),HSFZ diagnostic gateway unavailable.,Diagnose-Gateway nicht erreichbar.,Diagnose-Gateway nicht erreichbar.,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,mgflasher-qnx,C/C++ (shown as ISO-8859-1),MG Flasher request refused (NRC %02X).,MG Flasher: abgelehnt (NRC %02X).,MG Flasher: abgelehnt (NRC %02X).,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,mgflasher-qnx,C/C++ (shown as ISO-8859-1),No matching DME acknowledgement.,Keine passende DME-Antwort.,Keine passende DME-Antwort.,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,mgflasher-qnx,C/C++ (shown as ISO-8859-1),Verified: ,Aktiv: ,Aktiv: ,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,mgflasher-qnx,C/C++ (shown as ISO-8859-1),Acknowledged by DME; active setting unconfirmed.,Von DME angenommen; aktiver Wert offen.,Von DME angenommen; aktiver Wert offen.,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,mgflasher-qnx,C/C++ (shown as ISO-8859-1),Acknowledged by DME: ,Von DME angenommen: ,Von DME angenommen: ,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,mgflasher-qnx,C/C++ (shown as ISO-8859-1),Map slot,Map,Map,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+MgFlasher,mgflasher-qnx,C/C++ (shown as ISO-8859-1),Burble slot,Burble,Burble,ASCII (ae/oe/ue/ss) - lower-case umlauts cut the text
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Boost,LADEDRUCK,LADEDRUCK,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Boost,LADEDRUCK,LADEDRUCK,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Boost,LADE,LADE,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",AFR,AFR,AFR,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",AFR,AFR,AFR,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",AFR,AFR,AFR,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Timing,ZÜNDUNG,ZÜNDUNG,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Timing,ZÜNDUNG,ZÜNDUNG,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Ign,ZÜND,ZÜND,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Intake air,ANSAUGLUFT,ANSAUGLUFT,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Intake air,ANSAUG,ANSAUG,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",IAT,LUFT,LUFT,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Trans temp,GETRIEBE,GETRIEBE,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Trans temp,GETRIEBE,GETRIEBE,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",ATF,GETR,GETR,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Rail pressure,RAILDRUCK,RAILDRUCK,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Rail press.,RAILDRUCK,RAILDRUCK,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Rail,RAIL,RAIL,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Oil pressure,ÖLDRUCK,ÖLDRUCK,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Oil press.,ÖLDRUCK,ÖLDRUCK,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Oil P,ÖL P,ÖL P,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Coolant,KÜHLWASSER,KÜHLWASSER,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Coolant,WASSER,WASSER,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Cool,WASS,WASS,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Active ethanol,ETHANOL,ETHANOL,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",E%,E%,E%,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",E%,E%,E%,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Oil temp,ÖLTEMPERATUR,ÖLTEMPERATUR,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Oil temp,ÖLTEMP.,ÖLTEMP.,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Oil T,ÖL T,ÖL T,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Voltage,BATTERIE,BATTERIE,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Voltage,BATTERIE,BATTERIE,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Volt,BATT,BATT,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Engine RPM,DREHZAHL,DREHZAHL,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",RPM,DREHZAHL,DREHZAHL,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",RPM,U/MIN,U/MIN,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Speed,TEMPO,TEMPO,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Speed,TEMPO,TEMPO,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Spd,KM/H,KM/H,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Engine load,MOTORLAST,MOTORLAST,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Eng. load,MOTORLAST,MOTORLAST,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Load,LAST,LAST,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Manifold abs.,SAUGROHRDRUCK,SAUGROHRDRUCK,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Manifold,SAUGROHR,SAUGROHR,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",MAP,MAP,MAP,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Air flow,LUFTMASSE,LUFTMASSE,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Air flow,LUFTMASSE,LUFTMASSE,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",MAF,MAF,MAF,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Throttle,DROSSELKLAPPE,DROSSELKLAPPE,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Throttle,DROSSEL,DROSSEL,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",TPS,DK,DK,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Barometric,LUFTDRUCK,LUFTDRUCK,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Baro,LUFTDRUCK,LUFTDRUCK,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Baro,BARO,BARO,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Outside air,AUSSENLUFT,AUSSENLUFT,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Outside,AUSSEN,AUSSEN,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Amb,AUSS,AUSS,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Fuel rate,VERBRAUCH,VERBRAUCH,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Fuel rate,VERBRAUCH,VERBRAUCH,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Rate,L/H,L/H,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Fuel level,TANKINHALT,TANKINHALT,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Fuel level,TANK,TANK,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Fuel,TANK,TANK,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Accel. pedal,GASPEDAL,GASPEDAL,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Pedal,GASPEDAL,GASPEDAL,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",APP,GAS,GAS,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Spark advance,ZÜNDWINKEL,ZÜNDWINKEL,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Spark adv.,ZÜNDWINK.,ZÜNDWINK.,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Adv,ZW,ZW,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Absolute load,ABSOLUTE LAST,ABSOLUTE LAST,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Abs. load,ABS. LAST,ABS. LAST,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Abs,ABS,ABS,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",STFT bank 1,STFT BANK 1,STFT BANK 1,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",STFT B1,STFT B1,STFT B1,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",ST1,ST1,ST1,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",LTFT bank 1,LTFT BANK 1,LTFT BANK 1,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",LTFT B1,LTFT B1,LTFT B1,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",LT1,LT1,LT1,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",STFT bank 2,STFT BANK 2,STFT BANK 2,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",STFT B2,STFT B2,STFT B2,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",ST2,ST2,ST2,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",LTFT bank 2,LTFT BANK 2,LTFT BANK 2,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",LTFT B2,LTFT B2,LTFT B2,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",LT2,LT2,LT2,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Lambda target,LAMBDA SOLL,LAMBDA SOLL,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Lambda,LAMBDA,LAMBDA,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Lam,LAM,LAM,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Catalyst temp,KAT-TEMPERATUR,KAT-TEMPERATUR,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Cat temp,KAT-TEMP.,KAT-TEMP.,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",Cat,KAT,KAT,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"gauge name (C, capitals)",Throttle target,DROSSEL SOLL,DROSSEL SOLL,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"tile caption (C, capitals, max 9)",Target TPS,DK SOLL,DK SOLL,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
+BoostDeck,libBoostDeck.so,"narrow caption (C, capitals)",TGT,SOLL,SOLL,"capitals, single-byte Ä/Ö/Ü (0xC4/0xD6/0xDC) - car-confirmed 21.11.2026"
